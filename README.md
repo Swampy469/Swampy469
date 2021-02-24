@@ -9,7 +9,7 @@
 
 ### Github Activity ✔:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swampy469&layout=compact&theme=dark)](https://github.com/Swampy469/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swampy469&layout=compact&theme=vue)](https://github.com/Swampy469/github-readme-stats)
 
 <hr>
 
