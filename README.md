@@ -15,7 +15,9 @@
 <hr>
 
 - :eyes: Vistiors Count: <br>
-![](https://visitor-badge.glitch.me/badge?page_id=Swampy469.README)
+![](https://visitor-badge.glitch.me/badge?page_id=Swampy469.README.md)
+
+<hr>
 
 Credit: [Swampy469](https://github.com/Swampy469)
 
