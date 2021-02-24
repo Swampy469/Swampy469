@@ -5,7 +5,6 @@
 
 <img height="250" weight="250" align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-<br>
 <hr>
 
 
@@ -14,7 +13,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swampy469&layout=compact&theme=vue)](https://github.com/Swampy469/github-readme-stats)
 
 <hr>
-<br>
 
 - :eyes: Vistiors Count: <br>
 ![](https://visitor-badge.glitch.me/badge?page_id=Swampy469.README)
