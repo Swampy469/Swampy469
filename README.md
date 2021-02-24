@@ -1,4 +1,4 @@
-### Hi I am a student trying to learn stuffs for improving my programming skills. 👋
+### Hi, I'm a student trying to learn new stuffs for improving my programming skills. 👋
 
 - :hammer_and_pick: Java/Kotlin
 - 🌱 I’m currently learning: <img height="20" weight="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height="20" weight="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img height="20" weight="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
