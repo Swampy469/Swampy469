@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I am a student trying to learn stuffs for improving my programming skills. 👋
 
-<!--
-**Swampy469/Swampy469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :hammer_and_pick: Java/Kotlin
+- 🌱 I’m currently learning: <img height="20" weight="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height="20" weight="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img height="20" weight="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
-Here are some ideas to get you started:
+<img height="250" weight="250" align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+### Github Activity ✔:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swampy469&layout=compact&theme=dark)](https://github.com/Swampy469/github-readme-stats)
+
+<hr>
+
+- :eyes: Vistiors Count: <br>
+![](https://visitor-badge.glitch.me/badge?page_id=Swampy469.README)
+
+
