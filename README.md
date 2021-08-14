@@ -19,6 +19,4 @@
 
 <hr>
 
-Credit: [Swampy469](https://github.com/Swampy469)
-
-Last Edited on: 24/02/2021
+Last Edited on: 14/08/2021
