@@ -8,16 +8,9 @@
 
 <hr>
 
-
-### Github Activity ✔:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swampy469&layout=compact&theme=vue)](https://github.com/Swampy469/github-readme-stats)
-
-<hr>
-
 - :eyes: Vistiors Count: <br>
 ![](https://visitor-badge.glitch.me/badge?page_id=Swampy469.README.md)
 
 <hr>
 
-Last Edited on: 05/01/2022
+Last Edited on: 01/10/2022
