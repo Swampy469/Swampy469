@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessio</h1>
-<h3>A passionate Full Stack Developer from Italy, <br> I am currently working in Renewable Energy solutions, I recently also worked in an important <b>Cybersecurity</b> project, I am constantly seeking to learn and apply new technologies to stay ahead of the game and deliver innovative solutions that exceed client expectations!</h3>
+<h3>A passionate Full Stack Developer from Italy, <br> I am currently working in Renewable Energy solutions, I recently worked in an important <b>Cybersecurity</b> project, I am constantly seeking to learn and apply new technologies to stay ahead of the game and deliver innovative solutions that exceed client expectations!</h3>
 
 - 🌱 I’m currently learning **C#, Redis and Dart**
 
