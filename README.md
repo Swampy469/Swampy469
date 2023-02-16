@@ -5,7 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/swampy469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="swampy469" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/14182570/swampy469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="swampy469" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/alessio-marano-b440b7207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swampy469" height="20" width="20" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
