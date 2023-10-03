@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alessio</h1>
 
 <p align="center">
-  A passionate Full Stack Developer from Italy 🇮🇹
+  A passionate Full Stack developer from Italy 🇮🇹
 </p>
 
-<p align="center">
+<p align="left">
   Recently involved in a significant <b>Cybersecurity</b> project, I'm committed to staying ahead of the curve, mastering new technologies, and delivering solutions that not only meet but exceed client expectations.
 </p>
 
