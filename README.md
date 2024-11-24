@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessio</h1>
-<h3 align="center">A Passionate FullStack Developer from Italy 🇮🇹</h3>
+<h3 align="center">A FullStack Developer from Italy 🇮🇹</h3>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/VekcnHOwOI5So/giphy.gif?cid=ecf05e4730pe7qry6c39z6kawgfr1mblxe96dilo9jfeiv5e&rid=giphy.gif&ct=g" height="250" width="250" alt="Coding GIF" />
