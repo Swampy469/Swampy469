@@ -13,7 +13,7 @@
 </p>
 
 - 🎯 **Goals**: Continuously grow as a tech professional and contribute to open-source projects
-- 📫 **Contact**: [alessiomarano.work@gmail.com](mailto:alessiomarano.work@gmail.com)
+- 📫 **Contact**: [contact@alessiomarano.com](mailto:contact@alessiomarano.com)
 
 ---
 
@@ -26,5 +26,5 @@
 ---
 
 <p align="center">
-  <i>Last Edited on: 05/01/2025</i>
+  <i>Last Edited on: 15/02/2025</i>
 </p>
